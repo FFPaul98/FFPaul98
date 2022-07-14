@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Fabricio Paulino</h1>
-<h3 align="center">“A matemática é o alfabeto com o qual DEUS escreveu o universo”. Então nós, seres tão inferiores, que buscamos alcançar feitos que consideramos tão insignes não deveríamos fazer uso da matemática também?</h3>
+<h3 align="center">Torne fácil o que é certo e faça o errado ser difícil. Assim o certo fica excelente e o errado deixa de existir.</h3>
 
 - 🌱 Estou aprendendo **PHP, SAS**
 
